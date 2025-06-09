@@ -64,5 +64,16 @@ To run this project locally or on Kaggle:
 
 4. Download or submit the generated submission.csv.
 
-   
+**Contact**
+Feel free to open issues or reach out via mishra.rishabh11@gmail.com for questions or collaboration.
+
+
+---
+
+Let me know if you'd like:
+- The final `.ipynb` notebook linked in the README
+- To include results from feature importance plots
+- A short demo GIF or chart
+
+I'll help you finalize it.
 
